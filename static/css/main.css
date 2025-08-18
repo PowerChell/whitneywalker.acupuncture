@@ -2,8 +2,8 @@
 
 :root {
   /* Light mode colors - Cream shades */
-  --bg-primary: #fefefe;
-  --bg-secondary: #f8f6f0;
+  --bg-primary: #faf8f3;
+  --bg-secondary: #f0e8d8;
   --text-primary: #2c2c2c;
   --text-secondary: #5a5a5a;
   --border-color: #e8e0d0;
@@ -13,13 +13,13 @@
 
 /* Dark mode colors */
 [data-theme="dark"] {
-  --bg-primary: #1a1a1a;
-  --bg-secondary: #2d2d2d;
-  --text-primary: #ffffff;
-  --text-secondary: #cccccc;
-  --border-color: #404040;
+  --bg-primary: #2d1e15;
+  --bg-secondary: #4a2f24;
+  --text-primary: #f7f0e8;
+  --text-secondary: #d8c8b8;
+  --border-color: #6b4d3a;
   --link-color: #c56f00; /* #795831; */
-  --link-hover-color: #99ccff;
+  --link-hover-color: #617b5e;
 }
 
 .typed-out{
