@@ -1,0 +1,10 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "Acupuncture Session",
+    "description": "Acupuncture for stress, pain relief, and whole-body wellness in Boulder and Denver, CO.",
+    "brand": {
+      "@type": "Brand",
+      "name": "Whitney Walker Acupuncture"
+    }
+  }

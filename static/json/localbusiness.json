@@ -1,0 +1,17 @@
+{
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Whitney Walker Acupuncture LLC",
+    "image": "https://PowerChell.github.io/whitneywalker.acupuncture/img/dps-logo-v2-gold.png",
+    "description": "Acupuncture for stress, pain relief, and whole-body wellness in Boulder and Denver, CO.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1441 York St",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "postalCode": "80206",
+      "addressCountry": "US"
+    },
+    "url": "https://PowerChell.github.io/whitneywalker.acupuncture"
+  }
+  

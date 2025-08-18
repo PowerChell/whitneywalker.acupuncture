@@ -1,0 +1,10 @@
+<!-- layouts/shortcodes/pagecard.html -->
+{{ $page := .Site.GetPage (printf "/%s" (.Get "page")) }}
+<div class="card">
+  <img class="card-img-top" src="{{ $page.Params.image }}" alt="{{ $page.Title }}">
+  <div class="card-body">
+    <h5 class="card-title">{{ $page.Title }}</h5>
+    <p class="card-text">{{ $page.Params.description }}</p>
+    <a href="{{ $page.RelPermalink }}" class="button">Read More</a>
+  </div>
+</div>

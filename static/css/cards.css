@@ -1,0 +1,68 @@
+/* Card Gallery Styles */
+.card-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px -10px 6px -10px; /* Offset margins for better alignment */
+  }
+  
+  .card {
+    flex: 1 1 calc(33.33% - 20px); /* Three cards per row with spacing */
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-body {
+    padding: 10px; /* Reduced padding */
+    flex: 1; /* Ensure the body takes up remaining space */
+  }
+  
+  .card-title {
+    font-size: 2.5rem; /* Larger font size for the title */
+    margin-bottom: 1rem; /* Increased margin */
+    text-align: center;
+  }
+  
+  .card-text {
+    font-size: 1.4rem; /* Increased font size */
+    margin-bottom: 1.25rem; /* Increased margin */
+    text-align: left; /* Left justified */
+    font-family: "PT Mono", monospace; /* PT Mono font */
+  }
+  
+  @media (max-width: 1200px) {
+    .card {
+      flex: 1 1 calc(33.33% - 20px); /* Ensure three cards per row on medium screens */
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .card {
+      flex: 1 1 calc(100% - 20px); /* One card per row on small screens */
+    }
+  
+    .card-title {
+      font-size: 2.4rem; /* Slightly smaller font size */
+    }
+  
+    .card-text {
+      font-size: 1.3rem; /* Slightly smaller font size */
+    }
+  
+    .btn {
+      padding: 8px 16px; /* Adjust padding */
+      font-size: 1rem; /* Adjust font size */
+    }
+  }
+  
