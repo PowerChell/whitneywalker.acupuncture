@@ -26,19 +26,24 @@ pageRef = 'page/about'
 weight = 20
 
 [[menus.main]]
-name = 'Booking'
-pageRef = 'page/booking'
-weight = 30
+name = 'Why Acupuncture?'
+pageRef = 'page/what-can-acupuncture-help-with'
+weight = 25
 
 [[menus.main]]
-name = 'News'
-pageRef = 'posts'
-weight = 30
+name = 'Booking'
+pageRef = 'page/booking'
+weight = 32
 
 [[menus.main]]
 name = 'Services'
 pageRef = 'page/services'
 weight = 30
+
+[[menus.main]]
+name = 'News'
+pageRef = 'posts'
+weight = 35
 
 [module]
   [module.hugoVersion]

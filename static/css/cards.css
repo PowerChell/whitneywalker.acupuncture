@@ -37,8 +37,8 @@
   .card-text {
     font-size: 1.4rem; /* Increased font size */
     margin-bottom: 1.25rem; /* Increased margin */
-    text-align: left; /* Left justified */
-    font-family: "PT Mono", monospace; /* PT Mono font */
+    text-align: center; /* Center justified */
+    font-family: 'Inconsolata', 'Consolas', 'Monaco', monospace; /* Inconsolata font */
   }
   
   @media (max-width: 1200px) {

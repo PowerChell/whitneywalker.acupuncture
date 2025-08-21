@@ -174,7 +174,7 @@
 /* --- General --- */
 
 body {
-  font-family: "PT Mono", monospace;
+  font-family: 'Inconsolata', 'Consolas', 'Monaco', monospace !important;
   font-size: 16px;
   color: var(--text-primary);
   position: relative;
@@ -234,12 +234,12 @@ h2,h3,h4,h5,h6 {
 }
 
 h2.posts-subheading {
-  font-family: "PT Mono", monospace;
+  font-family: 'Inconsolata', 'Consolas', 'Monaco', monospace;
   font-weight: 200;
   font-size: 24px;
 }
 h3 {
-  font-family: "PT Mono", monospace;
+  font-family: 'Inconsolata', 'Consolas', 'Monaco', monospace;
   font-size: 18px;
 }
 a {
@@ -700,7 +700,7 @@ footer div.disclaimer {
   text-decoration: none;
 }
 .post-preview .post-entry {
-  font-family: "PT Mono", monospace;
+  font-family: 'Inconsolata', 'Consolas', 'Monaco', monospace;
   font-weight: 400;
 }
 .post-entry-container {
@@ -802,6 +802,11 @@ footer div.disclaimer {
   margin: 80px 0 20px;
   position: relative;
 }
+
+/* More space for homepage */
+.intro-header.no-img {
+  margin-top: 180px;
+}
 .intro-header.big-img {
   background: no-repeat center center;
   -webkit-background-size: cover;
@@ -885,6 +890,7 @@ footer div.disclaimer {
   .intro-header {
     margin-top: 130px;
   }
+
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
   }
@@ -916,6 +922,8 @@ footer div.disclaimer {
 .header-section.has-img .intro-header.no-img {
   display: none;
 }
+
+
 @media only screen and (max-width: 365px) {
   .header-section.has-img .intro-header.no-img {
     display: block;
