@@ -1,61 +1,45 @@
 ---
 title: "Booking"
-description: "Book your acupuncture appointment and view pricing"
+description: "Book your acupuncture appointment and view pricing."
 image: "img/treatment-room-square.png"
-bigimg: [{"src": "img/cc4/pexels-yankrukov-6611258-square.jpg"}]
 ---
 
 {{< figure src="img/herb-room.jpg" alt="Acupuncture treatment room" >}}
 
-At Whitney Walker Acupuncture, we offer transparent pricing and easy booking for all our acupuncture services. Each treatment is tailored to your individual needs and health goals.
+# Treatment Pricing
 
 {{< sep >}}
-## Treatment Pricing
 
-### Initial Consultation & Treatment
-**$120** - Your first visit includes a thorough health assessment and your first acupuncture treatment.
+Whitney Walker Acupuncture offers transparent pricing and easy booking for all our acupuncture services. Each treatment is tailored to your individual needs and health goals.
 
-### Follow-up Acupuncture Sessions
-**$85** - Regular treatments to maintain your health and address ongoing concerns.
+## Initial Consultation & Treatment  (75–90 min): $120
 
-### Extended Sessions
-**$110** - Longer sessions for complex conditions or when additional time is needed.
+Your first visit includes a thorough health history, discussion of your goals, and your first treatment. This session allows us to create a personalized plan for your care.
 
-### Package Discounts
-- **5-Session Package**: $400 (Save $25)
-- **10-Session Package**: $750 (Save $100)
+## Follow-up Treatment Sessions (60 min): $90
+
+Ongoing treatments to maintain balance, support healing, and address specific concerns. Each session may include acupuncture, cupping, gua sha, tui na, moxibustion, or other techniques as needed. Whitney’s sessions are modeled under a flat rate pricing system: each acupuncture session may include acupuncture, cupping, gua sha, tui na, moxibustion, or other techniques at no additional cost.
+
+- **5-Session Package** — $400 ($80/session, save $50)  
+- **10-Session Package** — $750 ($75/session, save $150)
+
+## Cupping Session (30 min): $50
+
+A focused 30-minute treatment using cupping therapy to release muscular tension, improve circulation, and support recovery. Ideal for back, neck, and shoulder discomfort.
+
+- **5-Session Package** — $225 ($45/session, save $25)  
+- **10-Session Package** — $400 ($40/session, save $100)
 
 {{< figure src="img/treatment-room.jpg" alt="Acupuncture treatment room" >}}
 
-## Insurance & Payment
+# Insurance
 
-We do not accept insurance plans. but can accept HSA and FSA payment, in addition to card, cash, and checks.
+At this time, Whitney Walker Acupuncture does not bill insurance directly. However, we accept HSA and FSA cards. Some plans may require a doctor’s note or Letter of Medical Necessity, so we recommend checking with your provider for details.
 
-## Booking Your Appointment
+# Cancellation Policy
 
-Ready to experience the benefits of acupuncture? Booking your appointment is easy:
+We ask for at least a 24 hour notice if you need to cancel or reschedule an appointment. Late cancellations or missed appointments may be subject to a fee.
 
-1. **Online Booking** - Use our secure online booking system
-2. **Phone Booking** - Call us directly to schedule
-3. **Email Booking** - Send us an email with your preferred times
-
-### What to Expect
-
-- **First Visit**: 90 minutes (consultation + treatment)
-- **Follow-up Visits**: 60 minutes
-- **Extended Sessions**: 90 minutes
-- **Please arrive 10 minutes early** for your first appointment to complete paperwork
-
-## Cancellation Policy
-
-We understand that life happens. Please provide at least 24 hours notice for any appointment changes or cancellations. Late cancellations may be subject to a $25 fee.
-
-## Book Your Appointment
+# Book Your Appointment
 
 {{< kilnfire_button url="https://whitneywalkeracupuncture.com/book" text="Book Online" >}}
-
-**Or contact us directly:**
-- Phone: tbd
-- Email: tbd
-- Address: 1441 York St, Denver, CO 80206
-

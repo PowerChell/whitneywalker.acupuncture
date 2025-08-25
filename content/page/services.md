@@ -1,33 +1,27 @@
 ---
 title: "Services"
-description: "Acupuncture treatments, wellness consultations, and holistic care"
+description: "Acupuncture treatments and herbal consultations."
 image: "img/acupuncture-square.png"
-bigimg: [{"src": "img/cc4/pexels-shvetsa-5642018-square.jpg"}]
 ---
 
 {{< figure src="img/acupuncture-placeholder.jpg" height=400 class="floatleft" alt="Acupuncture needles and tools" >}}
 
-At Whitney Walker Acupuncture, we offer comprehensive acupuncture treatments designed to address your specific health concerns and promote overall wellness.
+Whitney Walker Acupuncture offers comprehensive Traditional Chinese Medicine (TCM) treatments designed to address your specific health concerns and promote overall wellness. Each session is customized to your individual needs, drawing on a range of TCM practices.
 
-## Our Services
+## Treatment Techniques
 
-**Initial Consultation & Treatment** - Your first visit includes a thorough health assessment and your first acupuncture treatment.
+During your session, Whitney may incorporate:
 
-**Follow-up Acupuncture Sessions** - Regular treatments to maintain your health and address ongoing concerns.
+* **Acupuncture** – The use of fine, sterile needles at specific points to restore balance, reduce pain, and promote healing.  
+* **Moxibustion** – Gentle warming therapy with dried mugwort to stimulate circulation and support the body’s natural healing.  
+* **Cupping** – Suction therapy that relieves muscle tension, improves blood flow, and encourages relaxation.  
+* **Gua Sha** – A light scraping technique that releases stagnation, eases tightness, and boosts immune function.  
+* **Electrical Stimulation** – A gentle current applied to acupuncture needles to enhance pain relief, relaxation, and tissue healing, often for musculoskeletal concerns.  
+* **Tui Na** – Hands-on therapeutic massage and acupressure to improve mobility and relieve discomfort.  
+* **Auricular Therapy** – Targeting points on the ear to support whole-body health, including protocols for stress, addiction, and pain relief.  
+* **Bloodletting (Micro-Bleeding)** – A gentle technique where a few drops of blood are released at specific points to improve circulation, reduce inflammation, and relieve pain.
 
-**Wellness Consultations** - Holistic health guidance including nutrition, lifestyle, and stress management.
-
-**Pain Management** - Specialized treatments for chronic pain, sports injuries, and musculoskeletal issues.
-
-**Stress Relief & Mental Wellness** - Acupuncture for anxiety, depression, and stress-related conditions.
-
-## What to Expect
-
-Each session is tailored to your individual needs. We use sterile, single-use needles and follow the highest standards of safety and hygiene. Most patients find acupuncture to be deeply relaxing and often fall asleep during treatment.
-
-## Insurance & Payment
-
-We accept most major insurance plans and offer flexible payment options. Contact us to verify your coverage and discuss payment arrangements.
+All of these services are included as part of a standard acupuncture session. No extra charges apply—Whitney customizes the treatment based on your needs.
 
 ## Book Your Appointment
 

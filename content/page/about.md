@@ -1,49 +1,49 @@
 ---
 title: "About"
-description: "Learn about Whitney Walker and his acupuncture practice"
+description: "Learn about Whitney Walker and his acupuncture practice."
 image: "img/whitney-walker-square.png"
-bigimg: [{"src": "img/cc4/pexels-gabby-k-5302906-square.jpg"}]
 ---
 
 {{< figure src="img/whitney-walker.jpeg" height=300 class="floatleft" alt="Whitney Walker Acupuncture" >}}
 
-## About Whitney Walker
+## About Whitney Walker, L.Ac.
 
-Whitney Walker is a licensed acupuncturist and herbalist dedicated to helping patients achieve optimal health and wellness through traditional Chinese medicine. With over [X] years of experience, Whitney combines ancient wisdom with modern understanding to provide personalized care for each patient.
+Whitney Walker is a licensed acupuncturist serving the communities of Denver and Boulder, Colorado. He studied at Colorado Chinese Medicine University in Denver, where he trained extensively in acupuncture theory, clinical practice, and related healing modalities.  
 
-## Our Approach
+Born and raised in Denver, Whitney is deeply connected to the Front Range and is grateful to begin his practice in the communities that shaped him. His approach is patient-centered, with an emphasis on creating a calm, restorative, and supportive experience tailored to each individual’s needs.
 
-At Whitney Walker Acupuncture, we believe in treating the whole person—body, mind, and spirit. Our approach is rooted in traditional Chinese medicine principles, which view health as a balance of energy (Qi) throughout the body. When this balance is disrupted, symptoms and illness can occur.
+Whether you are seeking relief from pain, support with stress, or ongoing wellness care, Whitney combines professional expertise with a grounded, compassionate presence to help patients restore balance and wellbeing.
 
-## What We Treat
+## His Approach
 
-We specialize in treating a wide range of conditions including:
+Whitney Walker believes in treating the whole person—body, mind, and spirit. His approach is rooted in traditional Chinese medicine principles, which view health as a balance of energy (Qi) throughout the body. When this balance is disrupted, symptoms and illness can occur.
 
-- **Pain Management** - Chronic pain, sports injuries, arthritis, headaches
-- **Stress & Mental Health** - Anxiety, depression, insomnia, stress-related conditions
-- **Women's Health** - Fertility, pregnancy support, menstrual issues, menopause
-- **Digestive Health** - IBS, acid reflux, nausea, digestive disorders
-- **Respiratory Issues** - Allergies, asthma, sinus problems
-- **General Wellness** - Immune support, energy, overall health maintenance
+## What He Treats
 
-## Our Philosophy
+Whitney specialize in treating a wide range of conditions including:
 
-We believe that true healing comes from addressing the root cause of illness, not just managing symptoms. Each treatment is tailored to your individual constitution and health goals. We work with you to create a comprehensive wellness plan that may include acupuncture, herbal medicine, lifestyle recommendations, and dietary guidance.
+* **Pain Management** \- Chronic pain, sports injuries, arthritis, headaches  
+* **Stress & Mental Health** \- Anxiety, depression, insomnia, stress-related conditions  
+* **Women’s Health** \- Fertility, pregnancy support, menstrual issues, menopause  
+* **Digestive Health** \- IBS, IBD, acid reflux, nausea, digestive disorders  
+* **Respiratory Issues** \- Allergies, asthma, sinus problems  
+* **General Wellness** \- Immune support, energy, overall health maintenance
 
-## Education & Training
+## His Philosophy
 
-Whitney received his Master's degree in Acupuncture and Oriental Medicine from [School Name] and is licensed by the [State] Board of Acupuncture. He continues to pursue advanced training in various specialties including [specific areas of expertise].
+True healing comes from addressing the root cause of illness, not just managing symptoms. Each treatment is tailored to your individual constitution and health goals. Whitney works with you to create a comprehensive wellness plan that may include acupuncture, herbal medicine, lifestyle recommendations, and dietary guidance.
 
-## Why Choose Us
+## Why Choose Whitney Walker
 
-- **Personalized Care** - Every treatment is customized to your specific needs
-- **Comprehensive Approach** - We address the whole person, not just symptoms
-- **Experienced Practitioner** - Years of clinical experience and ongoing education
-- **Welcoming Environment** - Comfortable, peaceful treatment space
-- **Holistic Wellness** - Focus on prevention and long-term health
+* **Personalized Care** \- Every treatment is customized to your specific needs  
+* **Comprehensive Approach** \- Address the whole person, not just symptoms  
+* **Experienced Practitioner** \- Years of clinical experience and ongoing education  
+* **Welcoming Environment** \- Comfortable, peaceful treatment space  
+* **Holistic Wellness** \- Focus on prevention and long-term health  
+* **Location** \- treatment spaces in both Boulder and Denver, Colorado
 
-## Book Your Consultation
+## Book Your First Session
 
-Ready to experience the benefits of acupuncture? Schedule your initial consultation to discuss your health concerns and learn how we can help you achieve your wellness goals.
+Ready to experience the benefits of acupuncture? Schedule your initial appointment to discuss your health concerns and learn how Whitney Walker can help you achieve your wellness goals.
 
 {{< kilnfire_button url="https://whitneywalkeracupuncture.com/book" text="Book Consultation" >}}
