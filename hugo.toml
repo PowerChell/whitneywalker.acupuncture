@@ -1,4 +1,4 @@
-baseURL = 'https://PowerChell.github.io/whitneywalker.acupuncture'
+baseURL = 'https://powerchell.github.io/whitneywalker.acupuncture'
 languageCode = 'en-us'
 title = "WHITNEY WALKER ACUPUNCTURE"
 
@@ -27,7 +27,7 @@ weight = 20
 
 [[menus.main]]
 name = 'Why Acupuncture?'
-pageRef = 'page/what-can-acupuncture-help-with'
+pageRef = 'page/why-acupuncture'
 weight = 25
 
 [[menus.main]]
