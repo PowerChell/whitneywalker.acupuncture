@@ -2,7 +2,7 @@
 
 This is the source code of the website for Whitney Walker Acupuncture located in both Boulder and Denver, CO. 
 
-This repo uses GitHub actions to deploy this site to GitHub pages (at https://PowerChell.github.io/whitneywalker.acupuncture)
+This repo uses GitHub actions to deploy this site to GitHub pages (at http://PowerChell.github.io/whitneywalker.acupuncture)
 
 ## Development
 
