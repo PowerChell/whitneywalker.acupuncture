@@ -27,4 +27,4 @@ All of these services are included as part of a standard acupuncture session. No
 
 Ready to experience the benefits of acupuncture? Schedule your consultation today and take the first step toward better health and wellness.
 
-{{< kilnfire_button url="https://whitneywalkeracupuncture.com/book" text="Book Appointment" >}}
+{{< kilnfire_button url="https://app.acuityscheduling.com/schedule/a84fb022" text="Book Appointment" >}}

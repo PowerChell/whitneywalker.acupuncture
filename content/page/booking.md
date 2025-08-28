@@ -42,4 +42,4 @@ We ask for at least a 24 hour notice if you need to cancel or reschedule an appo
 
 # Book Your Appointment
 
-{{< kilnfire_button url="https://whitneywalkeracupuncture.com/book" text="Book Online" >}}
+{{< kilnfire_button url="https://app.acuityscheduling.com/schedule/a84fb022" text="Book Online" >}}

@@ -1362,3 +1362,57 @@ h4.see-also {
 [data-theme="dark"] .container[role="main"] table {
   outline-color: var(--border-color);
 }
+
+/* Footer Styles */
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+  padding: 20px 0;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.footer-address-1,
+.footer-contact,
+.footer-address-2 {
+  flex: 1;
+  min-width: 200px;
+  max-width: 300px;
+}
+
+.footer-content p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+.footer-content strong {
+  color: var(--text-primary);
+  font-size: 1.1em;
+}
+
+.footer-content a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.footer-content a:hover {
+  color: var(--link-hover-color);
+  text-decoration: underline;
+}
+
+/* Responsive footer */
+@media (max-width: 768px) {
+  .footer-content {
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .footer-address-1,
+  .footer-contact,
+  .footer-address-2 {
+    min-width: auto;
+    max-width: none;
+  }
+}

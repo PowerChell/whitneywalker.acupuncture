@@ -46,4 +46,4 @@ True healing comes from addressing the root cause of illness, not just managing 
 
 Ready to experience the benefits of acupuncture? Schedule your initial appointment to discuss your health concerns and learn how Whitney Walker can help you achieve your wellness goals.
 
-{{< kilnfire_button url="https://whitneywalkeracupuncture.com/book" text="Book Consultation" >}}
+{{< kilnfire_button url="https://app.acuityscheduling.com/schedule/a84fb022" text="Book Consultation" >}}
