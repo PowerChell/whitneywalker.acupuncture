@@ -16,13 +16,17 @@ Whitney Walker Acupuncture offers transparent pricing and easy booking for all o
 
 Your first visit includes a thorough health history, discussion of your goals, and your first treatment. This session allows us to create a personalized plan for your care.
 
-## Follow-up Treatment Sessions (60 min): $85
+## Follow-up Treatment Session (60 min): $85
 
 Ongoing treatments to maintain balance, support healing, and address specific concerns. Each session may include acupuncture, cupping, gua sha, tui na, moxibustion, or other techniques as needed. Whitney’s sessions are modeled under a flat rate pricing system: each acupuncture session may include acupuncture, cupping, gua sha, tui na, moxibustion, or other techniques at no additional cost.
 
-## Herbal Consult New Patient (75 min): $100.00
+## Initial Herbal Consult (75 min): $100
 
 A herbal consult is a one-on-one session where we look at your health from a Traditional Chinese Medicine perspective. We’ll chat about your symptoms, lifestyle, and goals, then create a custom herbal formula just for you. (Session cost does not include herbs).
+
+## Follow-up Herbal Consult Session (60 min): $70
+
+This appointment is for ongoing herbal care. We’ll review how your formula has been working, discuss any changes in your symptoms or goals, and adjust your prescription as needed. No acupuncture is included in this session.
 
 ## Cupping Session (30 min): $50
 
@@ -40,7 +44,7 @@ At this time, Whitney Walker Acupuncture does not bill insurance directly. Howev
 
 # Cancellation Policy
 
-We ask for at least a 24 hour notice if you need to cancel or reschedule an appointment. Late cancellations or missed appointments may be subject to a fee.
+We ask for at least a 24 hour notice if you need to cancel or reschedule an appointment. Late cancellations or missed appointments will be subject to a fee.
 
 # Book Your Appointment
 

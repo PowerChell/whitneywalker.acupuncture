@@ -940,6 +940,46 @@ footer div.disclaimer {
     margin-bottom: 0;
   }
 }
+
+/* Mobile header improvements */
+@media only screen and (max-width: 767px) {
+  .intro-header .page-heading h1,
+  .intro-header .tags-heading h1,
+  .intro-header .categories-heading h1 {
+    font-size: 32px;
+    line-height: 1.2;
+    margin-bottom: 10px;
+  }
+  
+  .intro-header .post-heading h1 {
+    font-size: 28px;
+    line-height: 1.2;
+    margin-bottom: 10px;
+  }
+  
+  .intro-header .page-heading .page-subheading,
+  .intro-header .post-heading .post-subheading {
+    font-size: 18px;
+    line-height: 1.3;
+    margin-top: 5px;
+  }
+  
+
+  
+  .navbar-custom .avatar-container .avatar-img {
+    width: 100%;
+  }
+  
+  /* Double the bottom padding of navbar on mobile */
+  .navbar-custom {
+    padding-bottom: 15px;
+  }
+  
+  /* Adjust logo positioning to sit half in navbar, half in header */
+  .navbar-custom .avatar-container {
+    margin-top: -10px;  /* Move logo down to overlap more with header */
+  }
+}
 @media only screen and (max-width: 325px) {
   .intro-header.big-img {
     height: 200px;
@@ -1407,6 +1447,9 @@ h4.see-also {
   .footer-content {
     flex-direction: column;
     gap: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
   }
   
   .footer-address-1,
@@ -1414,5 +1457,11 @@ h4.see-also {
   .footer-address-2 {
     min-width: auto;
     max-width: none;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .footer-content p {
+    text-align: center;
   }
 }

@@ -84,11 +84,11 @@ The number of treatments varies depending on your condition, health history, and
 **Is acupuncture safe?**  
 Absolutely. Acupuncture is very safe when performed by a licensed practitioner. Sterile, single-use needles are used to help towards creating a calming environment for your care.
 
-**Does acupuncture hurt?**
+**Does acupuncture hurt?**  
 Acupuncture uses very fine, sterile needles — much thinner than those used for injections or blood draws. Most patients feel little to no discomfort when the needles are inserted. Some experience a mild sensation of warmth, tingling, or heaviness, which is a normal sign that the body is responding. Depending on the treatment, you could be so relaxed that you fall asleep.
 
 ## Book Your First Session
 
 If you’re wondering whether acupuncture can help you, the best way to find out is to try it. Book your appointment today at Whitney Walker Acupuncture, serving patients in Boulder and Denver, Colorado.
 
-{{< kilnfire_button url="https://app.acuityscheduling.com/schedule/a84fb022" text="Schedule Your Appointment Now" >}}
+{{< kilnfire_button url="https://app.acuityscheduling.com/schedule/a84fb022" text="Schedule Here" >}}
