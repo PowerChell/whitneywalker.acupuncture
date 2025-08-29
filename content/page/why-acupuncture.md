@@ -75,9 +75,6 @@ Below you’ll find some of the most common conditions acupuncture can treat.
 
 # Frequently Asked Questions
 
-**Does acupuncture really work for all these conditions?**  
-Yes — acupuncture has been used for thousands of years and is supported by modern research for conditions like chronic pain, migraines, stress, and more. Every patient responds differently, and Whitney tailors treatment to your unique needs.
-
 **How many sessions will I need?**  
 The number of treatments varies depending on your condition, health history, and goals. Some patients notice improvement after just one session, while others benefit from a series of treatments over several weeks. Whitney will create a personalized plan during your initial session.
 
