@@ -14,7 +14,7 @@ Born and raised in Denver, Whitney is deeply connected to the Front Range and is
 
 Whether you are seeking relief from pain, support with stress, or ongoing wellness care, Whitney combines professional expertise with a grounded, compassionate presence to help patients restore balance and wellbeing.
 
-## His Approach
+## Approach
 
 Whitney Walker believes in treating the whole person—body, mind, and spirit. His approach is rooted in traditional Chinese medicine principles, which view health as a balance of energy (Qi) throughout the body. When this balance is disrupted, symptoms and illness can occur.
 
@@ -29,7 +29,7 @@ Whitney specialize in treating a wide range of conditions including:
 * **Respiratory Issues** \- Allergies, asthma, sinus problems  
 * **General Wellness** \- Immune support, energy, overall health maintenance
 
-## His Philosophy
+## Philosophy
 
 True healing comes from addressing the root cause of illness, not just managing symptoms. Each treatment is tailored to your individual constitution and health goals. Whitney works with you to create a comprehensive wellness plan that may include acupuncture, herbal medicine, lifestyle recommendations, and dietary guidance.
 
