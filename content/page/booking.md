@@ -16,19 +16,21 @@ Whitney Walker Acupuncture offers transparent pricing and easy booking for all o
 
 Your first visit includes a thorough health history, discussion of your goals, and your first treatment. This session allows us to create a personalized plan for your care.
 
-## Follow-up Treatment Sessions (60 min): $90
+## Follow-up Treatment Sessions (60 min): $85
 
 Ongoing treatments to maintain balance, support healing, and address specific concerns. Each session may include acupuncture, cupping, gua sha, tui na, moxibustion, or other techniques as needed. Whitney’s sessions are modeled under a flat rate pricing system: each acupuncture session may include acupuncture, cupping, gua sha, tui na, moxibustion, or other techniques at no additional cost.
 
-- **5-Session Package** — $400 ($80/session, save $50)  
-- **10-Session Package** — $750 ($75/session, save $150)
+## Herbal Consult New Patient (75 min): $100.00
+
+A herbal consult is a one-on-one session where we look at your health from a Traditional Chinese Medicine perspective. We’ll chat about your symptoms, lifestyle, and goals, then create a custom herbal formula just for you. (Session cost does not include herbs).
 
 ## Cupping Session (30 min): $50
 
 A focused 30-minute treatment using cupping therapy to release muscular tension, improve circulation, and support recovery. Ideal for back, neck, and shoulder discomfort.
 
-- **5-Session Package** — $225 ($45/session, save $25)  
-- **10-Session Package** — $400 ($40/session, save $100)
+## Tui Na Massage (45 min): $75
+
+Tui Na is a traditional Chinese medical massage that uses rolling, pressing, and stretching techniques to release tension, improve circulation, and support the body’s natural healing. It can be deeply relaxing or invigorating depending on your needs, and is great for muscle stiffness, injuries, and overall balance. Available as a stand-alone treatment or combined with acupuncture.
 
 {{< figure src="img/treatment-room.jpg" alt="Acupuncture treatment room" >}}
 
