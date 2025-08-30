@@ -9,10 +9,10 @@ Below you’ll find some of the most common conditions acupuncture can treat.
 
 ## Pain & Musculoskeletal
 
-* **Back Pain** – chronic or acute  
+* **Back Pain** – Chronic or acute  
 * **Neck & Shoulder Pain**  
 * **Arthritis & Joint Pain**  
-* **Sports Injuries** – sprains, strains, recovery support  
+* **Sports Injuries** – Sprains, strains, recovery support  
 * **Sciatica**  
 * **Knee Pain**  
 * **Carpal Tunnel Syndrome**  
@@ -21,30 +21,30 @@ Below you’ll find some of the most common conditions acupuncture can treat.
 ## Mental & Emotional Health
 
 * **Stress & Anxiety**  
-* **Depression Support** (adjunctive care)  
+* **Depression Support** (Adjunctive care)  
 * **Insomnia & Sleep Disorders**  
-* **PTSD & Trauma Recovery** (adjunctive care)  
+* **PTSD & Trauma Recovery** (Adjunctive care)  
 * **Burnout / Fatigue**
 
 ## Women’s Health & Fertility
 
-* **Menstrual Health** – cramps, irregular cycles, PMS, endometriosis, hormonal balance  
-* **Fertility Support** – natural or alongside IVF/IUI  
-* **Pregnancy Support** – nausea, back pain, preparing for labor  
-* **Postpartum Recovery** – energy, mood, lactation support  
-* **Menopause Symptoms** – hot flashes, night sweats, mood swings
+* **Menstrual Health** – Cramps, irregular cycles, PMS, endometriosis, hormonal balance  
+* **Fertility Support** – Natural or alongside IVF/IUI  
+* **Pregnancy Support** – Nausea, back pain, preparing for labor  
+* **Postpartum Recovery** – Energy, mood, lactation support  
+* **Menopause Symptoms** – Hot flashes, night sweats, mood swings
 
 ## Men's Health & Fertility
 
-* **Fertility Support**   
+* **Fertility Support**  
 * **Erectile dysfunction**  
 * **Enlarged prostate**
 
 ## Neurological & Headaches
 
-* **Migraines & Headaches** (tension, cluster, sinus-related)  
+* **Migraines & Headaches** – Tension, cluster, sinus-related  
 * **Neuropathy**  
-* **Post-Stroke Rehabilitation** (adjunctive care)  
+* **Post-Stroke Rehabilitation** (Adjunctive care)  
 * **Bell’s Palsy**
 
 ## Respiratory & Immunity
@@ -62,13 +62,13 @@ Below you’ll find some of the most common conditions acupuncture can treat.
 * **IBD (Irritable Bowel Disease)** – Crohn's disease and ulcerative colitis  
 * **Acid Reflux / GERD**  
   **Constipation or Diarrhea**  
-* **Nausea** (including chemo-induced)
+* **Nausea** (Including chemo-induced)
 * **Appetite & Weight Management**
 
 ## Other Conditions
 
-* **Addiction Recovery Support** (smoking cessation, alcohol, etc.)
-* **Skin Conditions** (eczema, acne, psoriasis)  
+* **Addiction Recovery Support** - Smoking cessation, alcohol, etc.
+* **Skin Conditions** – Eczema, acne, Psoriasis  
 * **TMJ / Jaw Pain**  
 * **High Blood Pressure Support**  
 * **Chronic Fatigue Syndrome**

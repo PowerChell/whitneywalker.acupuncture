@@ -979,6 +979,14 @@ footer div.disclaimer {
   .navbar-custom .avatar-container {
     margin-top: -10px;  /* Move logo down to overlap more with header */
   }
+  
+  /* Ensure Read More text is visible on mobile */
+  .post-preview .post-read-more {
+    display: inline-block;
+    float: none;
+    margin-top: 10px;
+    font-size: 14px;
+  }
 }
 @media only screen and (max-width: 325px) {
   .intro-header.big-img {

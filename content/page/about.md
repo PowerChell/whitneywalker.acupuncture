@@ -16,7 +16,7 @@ Whether you are seeking relief from pain, support with stress, or ongoing wellne
 
 ## Approach
 
-Whitney Walker believes in treating the whole person—body, mind, and spirit. His approach is rooted in traditional Chinese medicine principles, which view health as a balance of energy (Qi) throughout the body. When this balance is disrupted, symptoms and illness can occur.
+Whitney Walker believes in treating the whole person—body, mind, and spirit. His approach is rooted in Traditional Chinese Medicine principles, which view health as a balance of energy (Qi) throughout the body. When this balance is disrupted, symptoms and illness can occur.
 
 ## What He Treats
 
@@ -40,7 +40,7 @@ True healing comes from addressing the root cause of illness, not just managing 
 * **Experienced Practitioner** \- Years of clinical experience and ongoing education  
 * **Welcoming Environment** \- Comfortable, peaceful treatment space  
 * **Holistic Wellness** \- Focus on prevention and long-term health  
-* **Location** \- treatment spaces in both Boulder and Denver, Colorado
+* **Location** \- Treatment spaces in both Boulder and Denver, Colorado
 
 ## Book Your First Session
 
