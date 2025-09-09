@@ -12,6 +12,7 @@ subtitle = "holistic wellness & healing"
 mainSections = ["posts"]
 description = "Professional acupuncture services in Boulder and Denver, CO. Book your appointment today at Whitney Walker Acupuncture."
 logo = "img/logo-wip.png"
+favicon = "img/logo-wip.png"
 hideAuthor = true
 tags = false
 
