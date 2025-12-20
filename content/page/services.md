@@ -4,7 +4,7 @@ description: "Acupuncture treatments and herbal consultations."
 image: "img/acupuncture-square-4.png"
 ---
 
-{{< figure src="img/acupuncture-placeholder.jpg" height=400 class="floatleft" alt="Acupuncture needles and tools" >}}
+{{< figure src="img/services-page-photo.jpg" height=400 class="floatleft" alt="Acupuncture needles and tools" >}}
 
 Whitney Walker Acupuncture offers comprehensive Traditional Chinese Medicine (TCM) treatments designed to address your specific health concerns and promote overall wellness. Each session is customized to your individual needs, drawing on a range of TCM practices.
 
