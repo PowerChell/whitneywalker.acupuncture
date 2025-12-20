@@ -8,7 +8,7 @@ image: "img/whitney-walker-square.png"
 
 ## About Whitney Walker, L.Ac.
 
-Whitney Walker is a licensed acupuncturist serving the communities of Denver and Boulder, Colorado. He studied at Colorado Chinese Medicine University in Denver, where he trained extensively in acupuncture theory, clinical practice, and related healing modalities.  
+Whitney Walker is a licensed acupuncturist serving the communities of Denver and Boulder, Colorado. After receiving his Bachelor’s in Biology from Colorado College, Whitney studied at Colorado Chinese Medicine University in Denver, where he trained extensively in acupuncture theory, clinical practice, and related healing modalities.  
 
 Born and raised in Denver, Whitney is deeply connected to the Front Range and is grateful to begin his practice in the communities that shaped him. His approach is patient-centered, with an emphasis on creating a calm, restorative, and supportive experience tailored to each individual’s needs.
 

@@ -1,7 +1,7 @@
 ---
 title: "Services"
 description: "Acupuncture treatments and herbal consultations."
-image: "img/acupuncture-square.png"
+image: "img/acupuncture-square-4.png"
 ---
 
 {{< figure src="img/acupuncture-placeholder.jpg" height=400 class="floatleft" alt="Acupuncture needles and tools" >}}
