@@ -3,7 +3,7 @@ title: Acupuncture for Migraines & Headaches in Boulder and Denver, CO
 date: 2025-08-10
 ---
 
-{{< basic-image class="floatright" src="img/migraines.jpg" alt="tea" width="30%">}}
+{{< basic-image class="floatright" src="img/headaches.jpeg" alt="acupuncture points in head" width="30%">}}
 
 Migraines can be debilitating — bringing intense pain, light sensitivity, nausea, and fatigue that disrupt daily life. If you’re searching for a natural migraine treatment in Boulder and Denver, CO, acupuncture may provide lasting relief without the side effects of medications.
 
@@ -34,4 +34,4 @@ Many patients find sessions relaxing and notice improvement after just a few tre
 
 If migraines are interfering with your life, acupuncture may be the relief you’ve been looking for. Schedule your appointment today and take the first step toward fewer headaches and more balance.
 
-**\[Book Your Session Now\]**
+**[Book Your Session Now](https://app.acuityscheduling.com/schedule/a84fb022)**
