@@ -1,6 +1,7 @@
 ---
 title: "Seasonal Living: Nourishing Yourself in the Fall"
 date: 2025-10-01
+image: "img/fall.jpg"
 ---
 
 {{< basic-image class="floatright" src="img/fall.jpg" alt="fall" width="30%">}}

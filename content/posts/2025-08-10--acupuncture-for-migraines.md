@@ -1,6 +1,7 @@
 ---
 title: Acupuncture for Migraines & Headaches in Boulder and Denver, CO
 date: 2025-08-10
+image: "img/headaches.jpeg"
 ---
 
 {{< basic-image class="floatright" src="img/headaches.jpeg" alt="acupuncture points in head" width="30%">}}
