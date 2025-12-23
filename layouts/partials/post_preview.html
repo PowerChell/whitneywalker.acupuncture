@@ -27,9 +27,15 @@
         {{ if or (.Truncated) (.Params.summary) }}
         {{ $rawContent := .RawContent }}
         {{ if $rawContent }}
-          {{ $firstParagraph := index (split $rawContent "\n\n") 0 }}
-          {{ $secondParagraph := index (split $rawContent "\n\n") 1 }}
-          {{ $previewContent := printf "%s\n\n%s" $firstParagraph $secondParagraph }}
+          {{ $paragraphs := split $rawContent "\n\n" }}
+          {{ $firstParagraph := index $paragraphs 0 }}
+          {{ $secondParagraph := index $paragraphs 1 }}
+          {{ $previewContent := "" }}
+          {{ if $secondParagraph }}
+            {{ $previewContent = printf "%s\n\n%s" $firstParagraph $secondParagraph }}
+          {{ else }}
+            {{ $previewContent = $firstParagraph }}
+          {{ end }}
           {{ $previewContent = $previewContent | .RenderString }}
           {{ $previewContent | safeHTML }}
         {{ else }}
