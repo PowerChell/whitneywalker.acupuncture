@@ -25,7 +25,16 @@
     </p>
     <div class="post-entry">
         {{ if or (.Truncated) (.Params.summary) }}
-        {{ .Summary }}
+        {{ $rawContent := .RawContent }}
+        {{ if $rawContent }}
+          {{ $firstParagraph := index (split $rawContent "\n\n") 0 }}
+          {{ $secondParagraph := index (split $rawContent "\n\n") 1 }}
+          {{ $previewContent := printf "%s\n\n%s" $firstParagraph $secondParagraph }}
+          {{ $previewContent = $previewContent | .RenderString }}
+          {{ $previewContent | safeHTML }}
+        {{ else }}
+          {{ .Summary }}
+        {{ end }}
         <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
         {{ else }}
         {{ .Content }}
