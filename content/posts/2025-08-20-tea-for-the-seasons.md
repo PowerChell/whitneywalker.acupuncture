@@ -1,7 +1,6 @@
 ---
 title: "Tea for the Seasons: A Traditional Chinese Medicine Guide to Drinking Tea Year-Round"
 date: 2025-08-20
-image: "img/tea-for-the-seasons.JPG"
 ---
 
 {{< basic-image class="floatright" src="img/tea-for-the-seasons.JPG" alt="tea" width="30%">}}
