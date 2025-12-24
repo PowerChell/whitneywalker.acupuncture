@@ -1,6 +1,6 @@
 ---
 title: Acupuncture for Back Pain in Boulder and Denver, CO
-date: 2025-09-01
+date: 2025-09-20
 ---
 
 {{< basic-image class="floatright" src="img/back-pain.jpg" alt="cupping on back" width="30%">}}

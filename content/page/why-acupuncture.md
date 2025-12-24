@@ -2,6 +2,7 @@
 title: "Why Acupuncture?"
 description: "Learn why acupuncture can help different conditions."
 image: "img/whitney-walker-square.png"
+aliases: ["/why-acupuncture/"]
 ---
 Acupuncture is a safe, natural therapy that can help with a wide range of conditions — from chronic pain and migraines to stress, sleep, and fertility. Whitney Walker serves patients in Boulder and Denver, Colorado, offering personalized acupuncture treatments to support both immediate relief and long-term balance.
 

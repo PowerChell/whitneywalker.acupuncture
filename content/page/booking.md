@@ -2,9 +2,10 @@
 title: "Booking"
 description: "Book your acupuncture appointment and view pricing."
 image: "img/treatment-room-square.png"
+aliases: ["/booking/"]
 ---
 
-{{< figure src="img/herb-room.jpg" alt="Acupuncture treatment room" >}}
+{{< figure src="img/booking-cover-photos.png" alt="Acupuncture treatment room" >}}
 
 # Treatment Pricing
 
@@ -36,7 +37,7 @@ A focused 30-minute treatment using cupping therapy to release muscular tension,
 
 Tui Na is a traditional Chinese medical massage that uses rolling, pressing, and stretching techniques to release tension, improve circulation, and support the body’s natural healing. It can be deeply relaxing or invigorating depending on your needs, and is great for muscle stiffness, injuries, and overall balance. Available as a stand-alone treatment or combined with acupuncture.
 
-{{< figure src="img/treatment-room.jpg" alt="Acupuncture treatment room" >}}
+{{< figure src="img/booking-cover-photos-bottom.png" alt="Acupuncture treatment room" >}}
 
 # Insurance
 

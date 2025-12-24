@@ -2,6 +2,7 @@
 title: "Services"
 description: "Acupuncture treatments and herbal consultations."
 image: "img/acupuncture-square-4.png"
+aliases: ["/services/"]
 ---
 
 {{< figure src="img/services-page-photo.jpg" height=400 class="floatleft" alt="Acupuncture needles and tools" >}}

@@ -2,6 +2,7 @@
 title: "About"
 description: "Learn about Whitney Walker and his acupuncture practice."
 image: "img/whitney-walker-square.png"
+aliases: ["/about/"]
 ---
 
 {{< figure src="img/whitney-walker.jpeg" height=300 class="floatleft" alt="Whitney Walker Acupuncture" >}}
