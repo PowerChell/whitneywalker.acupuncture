@@ -9,7 +9,7 @@ Below you’ll find some of the most common conditions acupuncture can treat.
 
 ## Pain & Musculoskeletal
 
-* **Back Pain** – Chronic or acute  
+* **[Back Pain]({{< relref "posts/2025-09-01-acupuncture-for-back-pain" >}})** – Chronic or acute  
 * **Neck & Shoulder Pain**  
 * **Arthritis & Joint Pain**  
 * **Sports Injuries** – Sprains, strains, recovery support  
@@ -22,7 +22,7 @@ Below you’ll find some of the most common conditions acupuncture can treat.
 
 * **Stress & Anxiety**  
 * **Depression Support** (Adjunctive care)  
-* **Insomnia & Sleep Disorders**  
+* **[Insomnia & Sleep Disorders]({{< relref "posts/2025-08-10--acupuncture-for-sleep" >}})**  
 * **PTSD & Trauma Recovery** (Adjunctive care)  
 * **Burnout / Fatigue**
 
@@ -42,7 +42,7 @@ Below you’ll find some of the most common conditions acupuncture can treat.
 
 ## Neurological & Headaches
 
-* **Migraines & Headaches** – Tension, cluster, sinus-related  
+* **[Migraines & Headaches]({{< relref "posts/2025-08-10--acupuncture-for-migraines" >}})** – Tension, cluster, sinus-related  
 * **Neuropathy**  
 * **Post-Stroke Rehabilitation** (Adjunctive care)  
 * **Bell’s Palsy**
