@@ -18,7 +18,7 @@ Research and clinical experience show that acupuncture can:
 * Reduce nighttime anxiety and racing thoughts  
 * Improve sleep onset (falling asleep faster)  
 * Increase total sleep duration and quality  
-* Regulate melatonin production and circadian rhythm  
+* Regulate circadian rhythm  
 * Calm an overactive nervous system  
 * Enhance daytime energy and mental clarity  
 * Decrease reliance on sleep medications
@@ -49,7 +49,7 @@ Many patients find the sessions deeply relaxing and notice improved sleep qualit
 ## Frequently Asked Questions
 
 *Does acupuncture work for chronic insomnia?*  
-Yes. Acupuncture has been shown in numerous studies to help patients with chronic insomnia restore natural sleep patterns without medication. Many patients experience significant improvement in both falling asleep and staying asleep.
+Yes. Acupuncture has been shown to help patients with chronic insomnia restore natural sleep patterns without medication. Many patients experience significant improvement in both falling asleep and staying asleep.
 
 *How many sessions will I need?*  
 Most patients notice improvements within 3-5 sessions, though chronic insomnia may require ongoing treatment. We'll create a treatment plan based on your specific sleep issues and monitor your progress closely.
