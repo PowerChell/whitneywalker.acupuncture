@@ -13,7 +13,7 @@ aliases: ["/booking/"]
 
 Whitney Walker Acupuncture offers transparent pricing and easy booking for all our acupuncture services. Each treatment is tailored to your individual needs and health goals.
 
-## Initial Consultation & Treatment  (75–90 min): $120
+## Initial Consultation & Treatment  (75–90 min): $100
 
 Your first visit includes a thorough health history, discussion of your goals, and your first treatment. This session allows us to create a personalized plan for your care.
 
@@ -29,7 +29,7 @@ A herbal consult is a one-on-one session where we look at your health from a Tra
 
 This appointment is for ongoing herbal care. We’ll review how your formula has been working, discuss any changes in your symptoms or goals, and adjust your prescription as needed. No acupuncture is included in this session.
 
-## Cupping Session (30 min): $50
+## Cupping Session (30 min): $56
 
 A focused 30-minute treatment using cupping therapy to release muscular tension, improve circulation, and support recovery. Ideal for back, neck, and shoulder discomfort.
 
